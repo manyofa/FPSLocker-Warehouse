@@ -12,7 +12,7 @@ Currently this repository is dedicated only to FPSLocker 3.0.0 or newer.
 
 > To download all configs click [here](https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v4.zip), unpack it and copy the `SaltySD` and `atmosphere` folder to root of your sdcard.
 
----
+---`010000400F582000`jj
 
 Column `ISSUES` represents what issues you can expect from game when trying to go above default FPS target without using patch. It is valid only for the game's latest version listed here and only up to 60 FPS, above 60 FPS you may have different experience. In older versions it may be different (Example: Horizon Chase 2 1.6.6 uses internal FPS lock, but 1.6.3 doesn't).<br>
 Patches status concern only FPSLocker "LOCK" patch format. There may exist cheat/IPS patch/mod that unlocks 60 FPS already.<br>
